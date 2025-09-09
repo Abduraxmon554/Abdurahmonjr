@@ -1,0 +1,59 @@
+body{
+    background-color: #CD5D5D;
+}
+
+
+h1 {
+text-align: center;
+}
+
+
+
+h1 b{
+    color: yellow;
+}
+
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+main img{
+    width: 300px;
+    height: 240px;
+}
+
+
+main div{
+    width: 300px;
+    height: 400px;
+    background-color: black;
+    color: white;
+    
+}
+
+
+
+
+
+.top{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-left:300px;
+   gap: 20px;
+    
+}
+
+.bottom{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+      margin-left:300px;
+      margin-top: 20px;
+      gap: 20px;
+      
+}
